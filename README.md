@@ -51,8 +51,21 @@ RegisterNumber:  212224040345
 ## Output:
 ![prediction of iris species using SGD Classifier](sam.png)
 
+# HEAD
+![Screenshot 2025-04-19 174107](https://github.com/user-attachments/assets/68a07420-6cd2-4f4a-a5f4-84891e257770)
 
-![Screenshot 2025-04-19 161915](https://github.com/user-attachments/assets/03832ab7-c61f-4986-9516-6838eb35c8e5)
+# TARGET
+![Screenshot 2025-04-19 174115](https://github.com/user-attachments/assets/c6899cc1-d67c-41b3-a92d-efab7f54094e)
+
+# ACCURACY
+![Screenshot 2025-04-19 174124](https://github.com/user-attachments/assets/81fe6a30-6495-4203-a722-a62fb463d444)
+
+# CONFUSION MATRIX
+![Screenshot 2025-04-19 174132](https://github.com/user-attachments/assets/ee61a162-3955-4f99-8e05-e7e01d1b0867)
+
+
+
+
 
 
 
